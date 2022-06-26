@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telegram-bot-scoda",
+  "private_key_id": "a0f1044caf1759fc1bf749ca83e0925c50cd550a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGo35PeU9bVa3B\nNFhZD7I5I1Ovkx7CCmaiQ8nJWpNPRyu6aq6DOEWfwD3sgth7uoBltG7NkvL4pjBW\nyKA48W0zBbAtBohKq4AXXWqVh60VRrqoj9PQQdE7se6dZ3Nwfu6LM4Uq1wqCha/4\n2plihHKhutBi3nlPHP+7X9sx4fHOAzCZJpKEYFwSLe/nmq3cj9nfjEuIvXvrbFYd\nGmQE1IBldc+BaSCsyvMKs9mIVMP4oXQWwEND/AAZ0QzHml6FM5kopNzxbEA/GPgP\ndMApokrhmAb0xmqdjmE8RNr7TDY1xxUU31DAVwFLrtOxfgjevglrWoCOWcw1LDPX\nJ9u99sc9AgMBAAECggEABlXeGDZQCeN2boBXJgYKYuilyWaJl1pCEkBTvgSRyLhG\nJIS1CrHfhJwazYGR2oZlBHloBE4Ayl3wkkAFXjOTDkrK5vC7pZgJNpWP6fOBGXnf\nR7OIp66FuB/xcptDUw31WUK8J1Ti/K07YtZECKCdUFu3PEQIvfV4kZcZ1GI2tmGU\nv26yIoR44pKbF+6rWISJg2L7EbmU5caR7S2TBhDv7GJMNKm2p+SdNuEjP1WdI8z4\naWmkjV7eBjtDsJBum0GGzdGXiW+7/MpAyJiZJ6b+pGBiItR585RbN3w74bN5NM8n\nonghxdV2pxp983TpPH4fDUYAVQ3IURaLLGwDgGvIsQKBgQDw7gOtSDleYoG68L4F\n7jd1CKuxH6loJ5etWHmWftk/YG5VndcTBAVvip7jwD79m+/0eRosXB8XH9KazAJV\nI2a/u+18SiYlq2Luob86E7iKJYUhmXM2VCqfVB5kEes/zRPPVlsrHqbvdeHbM5Ip\nPN0O4E7t95p6yh7Iv7Ado5mkkQKBgQDTEEaOvh00fNEU5vgtrf/23hqhXcMD8+fN\nNEM1XRSD8VCFQNAzPtw4JjwygE1R1tECZq6i5CMpUv8ou+xmYKapMGkyK9lD0SH1\nHc9GEAQcHZcS5AWsu39HFd6Wwz78zeFcJEJJtEZYndfdN5uhPnKnw5c9legWP67t\nvo9MJkUd7QKBgQCZNCDubYDdffJUt4V+K+7j4vGanjGRY6vVtO8MPflTjbRbiRUc\nqG/0b8d9t9/WUPSTFvcHwkSa5cd8W8IX9Xz+6zem01fSmFs+t2fsPGIapqUzqmpS\n386CpnD03Vgkp/my3Iz4rHMmzmUiiHam9mbzcLuAIvT+o8xTh2EsV735oQKBgQCk\n750Tw0FzWO7S1MOwfr7+HgbVfz38gsfsNiEnPHvht9xipYmN4luZjVeRZ24EvEhN\nBg0Gwh0wF+nJ3UEZqAHVST2LtXRtaKqOsCLf73gmuIDshEBjAYqu9EojqqQ4TnMD\n3Fno2vX2HjMobmIyGWjj7RbtS444hL+gjj/RFD8C6QKBgAM/QQmULT9ts3EwOd+r\n0+9uVifj6Y24Ww434SCjIv9TqsZ+FnpHD80rsko6RJzYgB5g3SQQpsVOpx9xn6nu\nXEytt3RGpdRcOv6Dy14yeXnweKDwxww2Br4U7TrEYDIABOEdx7EmsAneyfJGPrv8\nXdfUO9coR0Txpyt4Xi09M+Uh\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-google-sheet-integration@telegram-bot-scoda.iam.gserviceaccount.com",
+  "client_id": "101853831558245980787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-google-sheet-integration%40telegram-bot-scoda.iam.gserviceaccount.com"
+}
