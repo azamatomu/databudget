@@ -1,4 +1,4 @@
-pyTelegromBotAPI
+pyTelegramBotAPI
 tabulate
 pandas
 matplotlib
